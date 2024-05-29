@@ -1,4 +1,4 @@
-Anywhere you have an `<img>` element, you can replace it with a huge emoji.
+Partout où tu as un élément `<img>`, tu peux le remplacer par un énorme emoji.
 
 ## --- code ---
 

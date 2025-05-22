@@ -1,4 +1,4 @@
-Anywhere you have an `<img>` element, you can replace it with a huge emoji.
+在任何地方，只要有 `<img>` 元素，你都可以用一个巨大的表情符号替换它。
 
 ## --- code ---
 
